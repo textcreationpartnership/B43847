@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speaker's speech to Their Excellencies the Lords Justices in the Lord's House. At the presenting of the poll-bill for the royal assent, on Friday the third of December, 1697.</title>
+            <author>Rochfort, Robert, 1652-1727.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43847</idno><idno type="EEBO-CITATION">690986721</idno>
+  <idno type="VID">211676</idno>
+  <idno type="EEBO-PROQUEST">2240865845</idno>
+  
+            <idno type="OCLC"> 690986721</idno>
+            <idno type="OCLC">ocn 690986721</idno>
+            <idno type="STC">Wing R1761C</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211676)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2984:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speaker's speech to Their Excellencies the Lords Justices in the Lord's House. At the presenting of the poll-bill for the royal assent, on Friday the third of December, 1697.</title>
+                  <author>Rochfort, Robert, 1652-1727.</author>
+                  <author>Ireland. Parliament. House of Lords.</author>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Ray at the 3 Naggs-Heads next to the Custom-House for Jacob Milner bookseller in Essex-street,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Robert Rochfort.  Cf.  Wing (2nd ed.).</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>Imperfect: pages have print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1649-1775 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:211676:1"/>
+            <pb facs="tcp:211676:2"/>
+            <head>THE SPEAKER's SPEECH To Their Excellencies THE LORDS JUSTICES In the LORD's HOUSE.</head>
+            <head type="sub">At the Presenting of the POLL-BILL FOR THE ROYAL ASSENT, On <hi>Friday</hi> the Third of <hi>December,</hi> 1697.</head>
+            <opener>
+               <salute>May it please Your Excellencies.</salute>
+            </opener>
+            <p>THE Knights, Citizens and Burgesses of this Kingdom, who sit in Parliament as Representatives of the Publick Loyalty of the Nation, by Devoring their Hear<g ref="char:EOLhyphen"/>ty Endeavours to the Service of His Majesty, and Good of their Fellow Subjects, Do now Attend Your Excellencies as Representatives of the
+<pb facs="tcp:211676:3"/>Publick Gratitude, in Returning their Humble Ac<g ref="char:EOLhyphen"/>knowledgments to His Majesty, for His Royal Fa<g ref="char:EOLhyphen"/>vours, and particularly for the many. Excellent Laws they have had, Others now ready to Receive Life, and More we are yet in hopes of under Your Ex<g ref="char:EOLhyphen"/>cellencies Just and Prudent Administration.</p>
+            <p>Our Religion and Civil Rights are Secured, our Remedies made Clear and Easie; The Snares of Forms in Legal Proceedings Removed; The Way to Justice mark'd out so, that no Excuse is left for such as shall Tread beside it: And if, by an <hi>Over-Tenderness,</hi> we are not wanting to our Selves, we may still hope for an Opportunity to Secure us and our Posterity against the Danger of Future Rebellions.</p>
+            <p>To Crown All, We now enjoy the Blessings of an Honourable and Glorious Peace; The Happy Effects of His Majesties Invincible Courage and Admirable Wisdom.</p>
+            <p>And We cannot but Esteem, as an Extraordinary Mark of Princely Favour, and Encouragement to the Protestant Subjects of this Kingdom, His Majestys' Pla<g ref="char:EOLhyphen"/>cing Your Excellencies to be our Chief Governours; who in Times of Imminent Danger, have given Un<g ref="char:EOLhyphen"/>common Proofs of Your Firmness and Concern for the Protestant Religion, and Legal Constitutions of Your Country, against Popery, and Arbitrary Power, to the Hazard of Both Your Lives, and Total Loss of One of Your Fortunes; And We reap the Fruit of Your Steady Principles by Your Unbounded Application, to provide Effectually for the Security of Our Reli<g ref="char:EOLhyphen"/>gion, and Properties.</p>
+            <p>By this His Majesty is pleased to give Us, and all His Subjects, an Undoubted Assurance, that the Ad<g ref="char:EOLhyphen"/>vancement
+<pb facs="tcp:211676:3"/>of the Protestant Religion is His Main Bu<g ref="char:EOLhyphen"/>siness and Concern; and the Laws of the Land, the Measures of His Government.</p>
+            <p>
+               <hi>May it please Your Excellencies,</hi>
+               <lb/> His Majesties Most Faithful Commons, having Consi<g ref="char:EOLhyphen"/>dered the Debt due to the Civil and Millitary Lists in this Kingdom, laid before them by Your Excellencies, have given His Majesty a Supply to be Raised by way of Poll, to Compleat what they Granted at their First Sitting. Which they humbly offer to His Majesties Gracious Ac<g ref="char:EOLhyphen"/>ceptance, and beseech Your Excellencies, to Assure His Majesty, That We are, and shall always Continue Unal<g ref="char:EOLhyphen"/>terable in our Sincere Loyalty, and Dutiful Affections to His Royal Person and Government, and Intirely De<g ref="char:EOLhyphen"/>voted to His Service and Interest.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DUBLIN,</hi> Printed by <hi>J. Ray</hi> at the 3 <hi>Naggs-Heads</hi> next to the <hi>Custom-House,</hi> for <hi>Jacob Milner</hi> Bookseller in <hi>Essex-street</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
